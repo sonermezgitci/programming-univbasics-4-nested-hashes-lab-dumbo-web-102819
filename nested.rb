@@ -89,7 +89,7 @@ def changing_alan
         }
      }
      programmer_hash[
-       :changing_alan] =
+       :changing_alan]
        [:alan_kay][:known_for] = "GUI"
        programmer_hash
      end
