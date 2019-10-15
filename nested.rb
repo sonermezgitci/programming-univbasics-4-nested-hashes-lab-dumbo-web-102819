@@ -88,7 +88,7 @@ def changing_alan
       languages: ["C"] 
         }
      }
-    dictionary = { 'cat' => 'feline animal', 'dog' => 'canine animal' }
+    changing_alan= { :alan_kay => "known_for" => "GUI" }
 end
      #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
      alans_new_info = "GUI"
